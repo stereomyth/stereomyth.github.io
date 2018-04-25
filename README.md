@@ -1,3 +1,3 @@
-# steromyth.github.io
+# stereomyth.github.io
 
-Redirects for moved projects
+Personal page, mainly for redirects for moved projects
